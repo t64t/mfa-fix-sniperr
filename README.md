@@ -4,6 +4,4 @@ sonra sniperde mfa token alındı diyecek sniper başlamış olucak ondan sonra 
 go mod init mfa-sniper
 go get github.com/valyala/fasthttp modül hatası hala alıyonuzsa da
 da siktirin gidin gptye sorun hadi iyi url çekmeler "MORVAYandTELEPATİA"
-
-
 ![](https://komarev.com/ghpvc/?username=t64t&repo=mfa-fix-sniperr&color=green)
